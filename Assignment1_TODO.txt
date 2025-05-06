@@ -1,0 +1,19 @@
+1; Code: Add ABF & runningTime to the table in exercise 2
+2; Code: Make exercise 5
+3; Code: Check if the last 4 box plots of exercise 3 are correct
+4; Code: Run all code in one sitting to get final plots
+
+5; Report: Task 1: Add the default parameter of the initial GA the plot of the best fitness at 
+each iteration.
+6; Report: Task 2: Add table of combinations of cross, mut, sel with ABF and runtime
+7; Report: Task 2: Add boxplots and ABF plot
+8; Report: Task 2: Decide on and motivate the optimal combination of cross, mut, sel
+8; Report: Task 3: Add table of mut, cross probability combinations with fitness scores
+9; Report: Task 3: Add boxplots and ABF plot
+10; Report: Task 3: Decide on and motivate the optimal combination of mut, cross probability
+11; Report: Task 4: Add description of decorator implementation
+12; Report: Task 5: Add PetriNet visualisation
+13; Report: Task 5: Describe final solution
+
+... 
+Last step; run all code in order one final time to make sure the notebook functions. DON'T CHANGE ANYTHING AFTER THAT POINT.

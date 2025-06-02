@@ -8,11 +8,11 @@
 ## Report
 1. Celine: Write a brief description explaining how CNNs solve the given task
 2. Yannick & Tijn: Report on initial tests with the CNN before hyperparameter optimization
-3. Tijn & Yannick: Include learning curves from the initial training
-4. Celine: Write a brief description of how the chosen hyperparameter optimization tool improves the CNN
-5. Celine: Document the selected hyperparameters to optimize, including:
+    -Include learning curves from the initial training
+3. Celine: Write a brief description of how the chosen hyperparameter optimization tool improves the CNN
+4. Celine: Document the selected hyperparameters to optimize, including:
     - Define their search space
     - Provide justification for choices
-6. Tijn & Yannick: Report on results with the CNN after hyperparameter optimization
-7. Tijn & Yannick: Include learning curves for both training and validation phases
-8. Tijn & Yannick: Compare and analyze results between pre- and post-optimization performance
+5. Tijn & Yannick: Report on results with the CNN after hyperparameter optimization
+    - Include learning curves for both training and validation phases
+    - Tijn & Yannick: Compare and analyze results between pre- and post-optimization performance
